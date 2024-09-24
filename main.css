@@ -48,11 +48,11 @@ section .container {
     justify-content: space-between;
 }
 
-.brands-list img {
-    height: 24px;
+.products img {
+    height: 160px;
 }
 
-.brands-list li {
+.products li {
     display: inline;
     margin-right: 8px;
 }
@@ -141,4 +141,8 @@ footer {
     background-color: #1e1e2e;
     color: #cdd6f4;
     padding: 16px;
+}
+
+.store-front {
+    height: 400px;
 }
